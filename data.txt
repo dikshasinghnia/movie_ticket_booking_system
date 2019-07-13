@@ -1,0 +1,9 @@
+01 jumanji 20jan 300 ***
+36 BatmanVsSuperman 12jan 350 ****
+37 antman 15feb 350 ***
+38 deadpool 15mar 350 ****
+39 Thor 3nov 300 ****
+40 Avenger 15apr 350 ***
+41 dilwale 31-01-2019 300 **
+42 sanju 27-03-2018 350 ***
+56 kalank 10-04-19 400 ****
